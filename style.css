@@ -1,86 +1,90 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    }
-    body{
-        font-family: Poppins,Arial, Helvetica, sans-serif ;
+}
+
+body {
+    font-family: Poppins, Arial, Helvetica, sans-serif;
     /* font-family: Arial, Helvetica, sans-serif; */
     background-color: rgb(68, 58, 58);
     color: aliceblue;
-    }
-    header{
+}
+
+header {
     background-color: rgb(65, 116, 100);
     color: white;
     padding: 20px;
-    }
-    header h1{
+}
+
+header h1 {
     font-size: 2em;
     padding: 10px;
     text-align: center;
-    }
+}
 
-    hr {
-        margin: 10px;
-    }
-    
-    nav ul{
+hr {
+    margin: 10px;
+}
+
+nav ul {
     list-style: none;
     display: flex;
     gap: 40px;
-    }
-    nav a{
+}
+
+nav a {
     color: white;
     text-decoration: none;
-    }
-    nav a:hover{
+}
+
+nav a:hover {
     color: crimson;
-    }
-    main{
+}
+
+main {
     padding: 30px;
-    }
-    h1{
+}
+
+h1 {
     margin-bottom: 20px;
-    }
-    h2{
+}
+
+h2 {
     background-color: rgb(107, 107, 128);
     color: yellow;
     padding: 30px;
     margin-bottom: 30px;
     border-radius: 8px;
-    }
-    h3{
+    font-weight: bold;
+}
+
+h3 {
     background-color: rgb(107, 107, 128);
     color: yellow;
     padding: 30px;
     margin-bottom: 30px;
     border-radius: 8px;
-    }
-    h4{
+}
+
+h4 {
     background-color: rgb(107, 107, 128);
     color: yellow;
     padding: 30px;
     margin-bottom: 30px;
     border-radius: 8px;
-    }
-    img{
+}
+
+img {
     height: 100px;
     width: 200px;
-    }
-    
-    footer{
+}
+
+footer {
 
     padding: 20px;
 
     text-align: center;
     color: #FBFBFB;
-    }
+}
 
-    /* navbar */
-    .navbar {
-        position: relative;
-        justify-content: center;
-        align-items: center;
-    }
-    
-    
