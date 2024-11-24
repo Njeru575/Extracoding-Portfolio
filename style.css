@@ -23,6 +23,7 @@
     hr {
         margin: 10px;
     }
+    
     nav ul{
     list-style: none;
     display: flex;
@@ -68,11 +69,18 @@
     }
     
     footer{
-    background-color: rgb(209, 190, 190);
+
     padding: 20px;
-    border-radius: 20px;
+
     text-align: center;
-    color: rgb(33, 77, 221);
+    color: #FBFBFB;
+    }
+
+    /* navbar */
+    .navbar {
+        position: relative;
+        justify-content: center;
+        align-items: center;
     }
     
     
